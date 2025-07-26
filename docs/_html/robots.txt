@@ -5,4 +5,4 @@ Allow: /en/stable
 Allow: /en/latest
 Allow: /en/develop
 
-Sitemap: 
+Sitemap: https://krakenhelpusa.readthedocs.io/en/latest/sitemap.xml
