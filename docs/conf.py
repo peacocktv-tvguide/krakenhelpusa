@@ -25,3 +25,4 @@ extensions = [
 extensions = ['sphinx_sitemap']
 html_baseurl = "https://krakenhelpusa.readthedocs.io/en/latest/"
 
+templates_path = ['_templates']
