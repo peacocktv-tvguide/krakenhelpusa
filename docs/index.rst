@@ -1,6 +1,10 @@
 Kraken Wallet Support || 24/7 Live Customer Help
 =============================
 
+.. meta::
+   :msvalidate.01: FEFB59473F5D555A8A516131E49E5993
+
+
 **Call Kraken Wallet Support Number at +1 818 (856)-3118 for 24/7 Crypto Wallet Assistance**
 
 Get Help via Kraken Wallet Support Number
