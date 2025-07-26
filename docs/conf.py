@@ -21,3 +21,7 @@ html_extra_path = ['_html']
 extensions = [
     "myst_parser",
 ]
+
+extensions = ['sphinx_sitemap']
+html_baseurl = 'https://krakenhelpusa.readthedocs.io/en/latest/'
+
