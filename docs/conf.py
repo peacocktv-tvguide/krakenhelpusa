@@ -26,3 +26,8 @@ extensions = ['sphinx_sitemap']
 html_baseurl = "https://krakenhelpusa.readthedocs.io/en/latest/"
 
 templates_path = ['_templates']
+exclude_patterns = []
+
+html_theme = 'alabaster'
+html_static_path = ['_static']
+
