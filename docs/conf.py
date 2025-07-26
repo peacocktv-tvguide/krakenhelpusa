@@ -19,3 +19,7 @@ import sys
 project = 'Kraken Wallet'
 
 html_extra_path = ['_html']
+
+extensions = [
+    "myst_parser",
+]
