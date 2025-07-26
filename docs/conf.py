@@ -23,5 +23,5 @@ extensions = [
 ]
 
 extensions = ['sphinx_sitemap']
-html_baseurl = 'https://krakenhelpusa.readthedocs.io/en/latest/'
+html_baseurl = "https://krakenhelpusa.readthedocs.io/en/latest/"
 
