@@ -1,2 +1,5 @@
 sphinx==7.2.6
 myst-parser
+
+sphinx
+sphinx-sitemap
